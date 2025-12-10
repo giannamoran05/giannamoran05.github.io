@@ -21,6 +21,7 @@ nav ul {
   justify-content: right;
   gap: 40px;
   margin: 0;
+  margin-right:2px;
   padding: 0;
 }
 
