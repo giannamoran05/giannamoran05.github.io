@@ -45,6 +45,7 @@ p{
   color:white;
 }
 .button {
+  width: 150px;
   display: inline-block;
   margin-top: 15px;
   padding: 6px 12px;
